@@ -8,7 +8,7 @@ function App() {
     return (
         <div className = "container">
           <Row>
-            <Col xs="4" sm="2" className = "leftSide"><img src= "https://www.businessinsider.com.au/nfl-person-of-interest-deflategate-2015-1"/></Col>
+            <Col xs="4" sm="2" className = "leftSide">Your Profile Comes Here..</Col>
             <Col xs="8" sm="6" className = "middle">
               <div>
                 <FormGroup>
@@ -21,7 +21,7 @@ function App() {
                 <Example />
               </div>  
               </Col>
-            <Col xs="4" sm="2" className = "leftSide">.col-6 .col-sm-4</Col>
+            <Col xs="4" sm="2" className = "leftSide">You can make friends with these people..</Col>
           </Row>
         </div>
     )
